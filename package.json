@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node app.js",
-    "test" : "Test not implemented yet"
+    "test" : "echo \"Test not implemented yet\" &amp;&amp; exit 1"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
